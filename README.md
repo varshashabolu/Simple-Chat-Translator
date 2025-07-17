@@ -58,10 +58,11 @@ python3 client.py
   B sends “How are you?” → A sees “[Translated]: Comment ça va ?”
   
 ## Screenshots
+## Server
 ![Server Screenshot](chat-translator/images/server.png)
-
+## Client - 1
 ![Client 1 Screenshot](chat-translator/images/client1.png)
-
+## Client - 2
 ![Client 2 Screenshot](chat-translator/images/client2.png)
 
 ## Future Improvements
