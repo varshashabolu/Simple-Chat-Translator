@@ -36,7 +36,7 @@ chat-translator/
 
 ## Setup & Usage
    # Clone the repo
-   git clone https://github.com/yourusername/chat-translator.git
+   git clone https://github.com/yourusername/chat-translator.git<br>
    cd chat-translator
    # Install dependencies
    pip install googletrans==4.0.0-rc1
@@ -66,9 +66,9 @@ python3 client.py
 ![Client 2 Screenshot](chat-translator/images/client2.png)
 
 ## Future Improvements
-✔ Add logging of chat history to a file
-✔ GUI client with Tkinter or PyQt
-✔ Auto-detect sender language before translating
+✔ Add logging of chat history to a file<br>
+✔ GUI client with Tkinter or PyQt<br>
+✔ Auto-detect sender language before translating<br>
 ✔ Deploy as a web app with Flask + WebSockets
 
 Varsha Shabolu 
