@@ -59,7 +59,8 @@ python3 client.py
   
 ## Screenshots
 ![Server Screenshot](images/server.png)
-![Client Screenshot](images/client.png)
+![Client 1 Screenshot](images/client1.png)
+![Client 2 Screenshot](images/client2.png)
 
 ## Future Improvements
 ✔️ Add logging of chat history to a file
